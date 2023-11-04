@@ -1,0 +1,1858 @@
+fileFormatVersion: 2
+guid: fc4f3afa8434846e1afa2008e047096f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 746498652366062076
+    second: charlieTheCapybaraAnimationSheet_0
+  - first:
+      213: -6866822828004091653
+    second: charlieTheCapybaraAnimationSheet_1
+  - first:
+      213: 7928186018509566902
+    second: charlieTheCapybaraAnimationSheet_2
+  - first:
+      213: -3835570166067105322
+    second: charlieTheCapybaraAnimationSheet_3
+  - first:
+      213: -3373717066082250586
+    second: charlieTheCapybaraAnimationSheet_4
+  - first:
+      213: -13294379104032186
+    second: charlieTheCapybaraAnimationSheet_5
+  - first:
+      213: 8254291874687165885
+    second: charlieTheCapybaraAnimationSheet_6
+  - first:
+      213: 4974490745906599917
+    second: charlieTheCapybaraAnimationSheet_7
+  - first:
+      213: -5786840968503927949
+    second: charlieTheCapybaraAnimationSheet_8
+  - first:
+      213: -1577469673619052222
+    second: charlieTheCapybaraAnimationSheet_9
+  - first:
+      213: -882107835566432256
+    second: charlieTheCapybaraAnimationSheet_10
+  - first:
+      213: -7006226150138181241
+    second: charlieTheCapybaraAnimationSheet_11
+  - first:
+      213: 5678210575104497330
+    second: charlieTheCapybaraAnimationSheet_12
+  - first:
+      213: 8798249002600584878
+    second: charlieTheCapybaraAnimationSheet_13
+  - first:
+      213: -6076345322296409327
+    second: charlieTheCapybaraAnimationSheet_14
+  - first:
+      213: 3920105388748947776
+    second: charlieTheCapybaraAnimationSheet_15
+  - first:
+      213: -1075520886872967718
+    second: charlieTheCapybaraAnimationSheet_16
+  - first:
+      213: 3918996957040704017
+    second: charlieTheCapybaraAnimationSheet_17
+  - first:
+      213: -3068307959612825785
+    second: charlieTheCapybaraAnimationSheet_18
+  - first:
+      213: 8638881368491046178
+    second: charlieTheCapybaraAnimationSheet_19
+  - first:
+      213: -8334060979502769711
+    second: charlieTheCapybaraAnimationSheet_20
+  - first:
+      213: -6416824549124658077
+    second: charlieTheCapybaraAnimationSheet_21
+  - first:
+      213: -1285880461334417891
+    second: charlieTheCapybaraAnimationSheet_22
+  - first:
+      213: 8428694900213335992
+    second: charlieTheCapybaraAnimationSheet_23
+  - first:
+      213: -627274143153427749
+    second: charlieTheCapybaraAnimationSheet_24
+  - first:
+      213: -2291446419088786921
+    second: charlieTheCapybaraAnimationSheet_25
+  - first:
+      213: 7836070066339988749
+    second: charlieTheCapybaraAnimationSheet_0
+  - first:
+      213: -5498635105938784375
+    second: charlieTheCapybaraAnimationSheet_1
+  - first:
+      213: -2671659202107663190
+    second: charlieTheCapybaraAnimationSheet_2
+  - first:
+      213: 289306635825875621
+    second: charlieTheCapybaraAnimationSheet_3
+  - first:
+      213: 6651984826929967316
+    second: charlieTheCapybaraAnimationSheet_4
+  - first:
+      213: 3873723786555023961
+    second: charlieTheCapybaraAnimationSheet_5
+  - first:
+      213: -2271990305417535292
+    second: charlieTheCapybaraAnimationSheet_6
+  - first:
+      213: -2753082752760419234
+    second: charlieTheCapybaraAnimationSheet_7
+  - first:
+      213: -4547167232891497796
+    second: charlieTheCapybaraAnimationSheet_8
+  - first:
+      213: 495979564674710109
+    second: charlieTheCapybaraAnimationSheet_9
+  - first:
+      213: -2298926241235258757
+    second: charlieTheCapybaraAnimationSheet_10
+  - first:
+      213: 181023986781374359
+    second: charlieTheCapybaraAnimationSheet_11
+  - first:
+      213: -9082023799049956123
+    second: charlieTheCapybaraAnimationSheet_12
+  - first:
+      213: -8280129450254218533
+    second: charlieTheCapybaraAnimationSheet_13
+  - first:
+      213: 2979051306122191112
+    second: charlieTheCapybaraAnimationSheet_14
+  - first:
+      213: -3019574412760820128
+    second: charlieTheCapybaraAnimationSheet_15
+  - first:
+      213: -914726335121174357
+    second: charlieTheCapybaraAnimationSheet_16
+  - first:
+      213: 2608771525087112015
+    second: charlieTheCapybaraAnimationSheet_17
+  - first:
+      213: 2353427570100967949
+    second: charlieTheCapybaraAnimationSheet_18
+  - first:
+      213: -5309215866092542846
+    second: charlieTheCapybaraAnimationSheet_19
+  - first:
+      213: 4878307710532223605
+    second: charlieTheCapybaraAnimationSheet_20
+  - first:
+      213: -3344242975115624519
+    second: charlieTheCapybaraAnimationSheet_21
+  - first:
+      213: -6105518528127349563
+    second: charlieTheCapybaraAnimationSheet_22
+  - first:
+      213: -2545484604814900611
+    second: charlieTheCapybaraAnimationSheet_23
+  - first:
+      213: -8592262206981814037
+    second: charlieTheCapybaraAnimationSheet_24
+  - first:
+      213: 6211376012835050230
+    second: charlieTheCapybaraAnimationSheet_25
+  - first:
+      213: 857869649696451747
+    second: charlieTheCapybaraAnimationSheet_26
+  - first:
+      213: 3264132077685544200
+    second: charlieTheCapybaraAnimationSheet_27
+  - first:
+      213: 3803671916201459979
+    second: charlieTheCapybaraAnimationSheet_28
+  - first:
+      213: 8194728938727264123
+    second: charlieTheCapybaraAnimationSheet_29
+  - first:
+      213: -795392669360075418
+    second: charlieTheCapybaraAnimationSheet_30
+  - first:
+      213: 3073309827980483022
+    second: charlieTheCapybaraAnimationSheet_31
+  - first:
+      213: 693052291321261669
+    second: charlieTheCapybaraAnimationSheet_32
+  - first:
+      213: 7609677652955369222
+    second: charlieTheCapybaraAnimationSheet_33
+  - first:
+      213: -3381124329097423121
+    second: charlieTheCapybaraAnimationSheet_34
+  - first:
+      213: -6573780021441722121
+    second: charlieTheCapybaraAnimationSheet_35
+  - first:
+      213: -8113208654567277453
+    second: charlieTheCapybaraAnimationSheet_36
+  - first:
+      213: 5835007010455966619
+    second: charlieTheCapybaraAnimationSheet_37
+  - first:
+      213: 175965400935159351
+    second: charlieTheCapybaraAnimationSheet_38
+  - first:
+      213: 1840811337731568224
+    second: charlieTheCapybaraAnimationSheet_39
+  - first:
+      213: -4585587827704840239
+    second: charlieTheCapybaraAnimationSheet_40
+  - first:
+      213: 8283900432513381757
+    second: charlieTheCapybaraAnimationSheet_41
+  - first:
+      213: 873627926426352478
+    second: charlieTheCapybaraAnimationSheet_42
+  - first:
+      213: 4625879135393201435
+    second: charlieTheCapybaraAnimationSheet_43
+  - first:
+      213: 6215976528036667957
+    second: charlieTheCapybaraAnimationSheet_44
+  - first:
+      213: 3082990254608761587
+    second: charlieTheCapybaraAnimationSheet_45
+  - first:
+      213: -8406354134776219698
+    second: charlieTheCapybaraAnimationSheet_46
+  - first:
+      213: 1088652409757343843
+    second: charlieTheCapybaraAnimationSheet_47
+  - first:
+      213: 2214444338492661557
+    second: charlieTheCapybaraAnimationSheet_48
+  - first:
+      213: -581960504424830389
+    second: charlieTheCapybaraAnimationSheet_49
+  - first:
+      213: 6532604200096640795
+    second: charlieTheCapybaraAnimationSheet_50
+  - first:
+      213: -1231551472994997357
+    second: charlieTheCapybaraAnimationSheet_51
+  - first:
+      213: 2280674451949442673
+    second: charlieTheCapybaraAnimationSheet_52
+  - first:
+      213: -6523909246716180644
+    second: charlieTheCapybaraAnimationSheet_53
+  - first:
+      213: 1068460310576520268
+    second: charlieTheCapybaraAnimationSheet_54
+  - first:
+      213: -170395462662080492
+    second: charlieTheCapybaraAnimationSheet_55
+  - first:
+      213: -8084002594113798412
+    second: charlieTheCapybaraAnimationSheet_56
+  - first:
+      213: -2007580528052233621
+    second: charlieTheCapybaraAnimationSheet_57
+  - first:
+      213: 8017061932209470767
+    second: charlieTheCapybaraAnimationSheet_58
+  - first:
+      213: -3512801617570920739
+    second: charlieTheCapybaraAnimationSheet_59
+  - first:
+      213: -1067210633245042124
+    second: charlieTheCapybaraAnimationSheet_60
+  - first:
+      213: -8761620229032177789
+    second: charlieTheCapybaraAnimationSheet_61
+  - first:
+      213: -8021178439237791080
+    second: charlieTheCapybaraAnimationSheet_62
+  - first:
+      213: -8526890997340518298
+    second: charlieTheCapybaraAnimationSheet_63
+  - first:
+      213: 7644815788093849730
+    second: charlieTheCapybaraAnimationSheet_64
+  - first:
+      213: 163564293331941733
+    second: charlieTheCapybaraAnimationSheet_65
+  - first:
+      213: 8278980918820650408
+    second: charlieTheCapybaraAnimationSheet_66
+  - first:
+      213: 6969362336088682668
+    second: charlieTheCapybaraAnimationSheet_67
+  - first:
+      213: -945831077755242462
+    second: charlieTheCapybaraAnimationSheet_68
+  - first:
+      213: 184484891970627621
+    second: charlieTheCapybaraAnimationSheet_69
+  - first:
+      213: 7890662449799691669
+    second: charlieTheCapybaraAnimationSheet_70
+  - first:
+      213: 506238824136046335
+    second: charlieTheCapybaraAnimationSheet_71
+  - first:
+      213: 6097656491767759152
+    second: charlieTheCapybaraAnimationSheet_72
+  - first:
+      213: 8304879879286111437
+    second: charlieTheCapybaraAnimationSheet_73
+  - first:
+      213: 7599259209530719219
+    second: charlieTheCapybaraAnimationSheet_74
+  - first:
+      213: 6880046537729456017
+    second: charlieTheCapybaraAnimationSheet_75
+  - first:
+      213: 212815301882143592
+    second: charlieTheCapybaraAnimationSheet_76
+  - first:
+      213: -7629388591968320640
+    second: charlieTheCapybaraAnimationSheet_77
+  - first:
+      213: -5950546564781158701
+    second: charlieTheCapybaraAnimationSheet_78
+  - first:
+      213: 590857323497302087
+    second: charlieTheCapybaraAnimationSheet_79
+  - first:
+      213: 1458100386255398605
+    second: charlieTheCapybaraAnimationSheet_80
+  - first:
+      213: -7210679516354309435
+    second: charlieTheCapybaraAnimationSheet_26
+  - first:
+      213: -1894524358621896125
+    second: charlieTheCapybaraAnimationSheet_27
+  - first:
+      213: 6398459230658439778
+    second: charlieTheCapybaraAnimationSheet_28
+  - first:
+      213: 7011277086747908677
+    second: charlieTheCapybaraAnimationSheet_29
+  - first:
+      213: 6214741547576201473
+    second: charlieTheCapybaraAnimationSheet_30
+  - first:
+      213: -5426895201141351996
+    second: charlieTheCapybaraAnimationSheet_31
+  - first:
+      213: -2596163559548190935
+    second: charlieTheCapybaraAnimationSheet_32
+  - first:
+      213: -291547130666936847
+    second: charlieTheCapybaraAnimationSheet_33
+  - first:
+      213: 1045998283484814482
+    second: charlieTheCapybaraAnimationSheet_34
+  - first:
+      213: -3216112587454877156
+    second: charlieTheCapybaraAnimationSheet_35
+  - first:
+      213: -3542248532360507316
+    second: charlieTheCapybaraAnimationSheet_36
+  - first:
+      213: -2925444147194224707
+    second: charlieTheCapybaraAnimationSheet_37
+  - first:
+      213: -763230118283934561
+    second: charlieTheCapybaraAnimationSheet_38
+  - first:
+      213: -4887867157760545441
+    second: charlieTheCapybaraAnimationSheet_39
+  - first:
+      213: -5345869514800532608
+    second: charlieTheCapybaraAnimationSheet_40
+  - first:
+      213: 2343853646707070607
+    second: charlieTheCapybaraAnimationSheet_41
+  - first:
+      213: 5561647291224281926
+    second: charlieTheCapybaraAnimationSheet_42
+  - first:
+      213: -8053468538380593006
+    second: charlieTheCapybaraAnimationSheet_43
+  - first:
+      213: -8154488243686254427
+    second: charlieTheCapybaraAnimationSheet_44
+  - first:
+      213: 4716102515751722972
+    second: charlieTheCapybaraAnimationSheet_45
+  - first:
+      213: -5959688479195738035
+    second: charlieTheCapybaraAnimationSheet_46
+  - first:
+      213: -1128960008092245508
+    second: charlieTheCapybaraAnimationSheet_47
+  - first:
+      213: 8123239025399668420
+    second: charlieTheCapybaraAnimationSheet_48
+  - first:
+      213: 7334377185762692522
+    second: charlieTheCapybaraAnimationSheet_49
+  - first:
+      213: -4741784093440137026
+    second: charlieTheCapybaraAnimationSheet_50
+  - first:
+      213: 8337153355364895137
+    second: charlieTheCapybaraAnimationSheet_51
+  - first:
+      213: -8252857755785371466
+    second: charlieTheCapybaraAnimationSheet_52
+  - first:
+      213: -46036581551002302
+    second: charlieTheCapybaraAnimationSheet_53
+  - first:
+      213: 7700494972317798949
+    second: charlieTheCapybaraAnimationSheet_54
+  - first:
+      213: -8880011169525297476
+    second: charlieTheCapybaraAnimationSheet_55
+  - first:
+      213: 3780213106259585853
+    second: charlieTheCapybaraAnimationSheet_56
+  - first:
+      213: -7520742324350567600
+    second: charlieTheCapybaraAnimationSheet_57
+  - first:
+      213: -8889280761183680513
+    second: charlieTheCapybaraAnimationSheet_58
+  - first:
+      213: 1342476957713478137
+    second: charlieTheCapybaraAnimationSheet_59
+  - first:
+      213: -345934997204963484
+    second: charlieTheCapybaraAnimationSheet_60
+  - first:
+      213: 2424320538008652454
+    second: charlieTheCapybaraAnimationSheet_61
+  - first:
+      213: 3290699893458066830
+    second: charlieTheCapybaraAnimationSheet_62
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05444345305fbc60800000000000000
+      internalID: 7836070066339988749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb601118ce0b3b0800000000000000
+      internalID: -5498635105938784375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac18795c1c5cead0800000000000000
+      internalID: -2671659202107663190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa809b3ad2d30400800000000000000
+      internalID: 289306635825875621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0f274d4f8905c50800000000000000
+      internalID: 6651984826929967316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e79f824b32c530800000000000000
+      internalID: 3873723786555023961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e470dad44870e0800000000000000
+      internalID: -2271990305417535292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ce574a2d51bc9d0800000000000000
+      internalID: -2753082752760419234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d43d5e7735e0c0800000000000000
+      internalID: -4547167232891497796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af94849c212e600800000000000000
+      internalID: 495979564674710109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72395a83c29810e0800000000000000
+      internalID: -2298926241235258757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797cdeb5b50238200800000000000000
+      internalID: 181023986781374359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4dbff297b26f180800000000000000
+      internalID: -9082023799049956123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac85f8222171d80800000000000000
+      internalID: -8280129450254218533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801a3151167b75920800000000000000
+      internalID: 2979051306122191112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066588ae1115816d0800000000000000
+      internalID: -3019574412760820128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba05860ae3d3e43f0800000000000000
+      internalID: -914726335121174357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba8f451e7343420800000000000000
+      internalID: 2608771525087112015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a9a70f7ed09a020800000000000000
+      internalID: 2353427570100967949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284afa99c40e156b0800000000000000
+      internalID: -5309215866092542846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572825f240b33b340800000000000000
+      internalID: 4878307710532223605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf33a19bbcd691d0800000000000000
+      internalID: -3344242975115624519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc47614f37d44ba0800000000000000
+      internalID: -6105518528127349563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7248cc0d3f9cacd0800000000000000
+      internalID: -2545484604814900611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8c5d7eb0722c880800000000000000
+      internalID: -8592262206981814037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f25a6b039d333650800000000000000
+      internalID: 6211376012835050230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c214860f258eeb90800000000000000
+      internalID: -7210679516354309435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342640a222c45b5e0800000000000000
+      internalID: -1894524358621896125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a273115c4ebc850800000000000000
+      internalID: 6398459230658439778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad171fc5f0d4160800000000000000
+      internalID: 7011277086747908677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101142aa2823f3650800000000000000
+      internalID: 6214741547576201473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c992b6419bcfa4b0800000000000000
+      internalID: -5426895201141351996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ff0566ff298fbd0800000000000000
+      internalID: -2596163559548190935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f51059ed6734fbf0800000000000000
+      internalID: -291547130666936847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd7ca95e1248e00800000000000000
+      internalID: 1045998283484814482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12f61334a21e53d0800000000000000
+      internalID: -3216112587454877156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d08a3ab767dec0800000000000000
+      internalID: -3542248532360507316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1e3c3c0cb667d0800000000000000
+      internalID: -2925444147194224707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948ecd40467865f0800000000000000
+      internalID: -763230118283934561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d626097beca2cb0800000000000000
+      internalID: -4887867157760545441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08379bafff7afc5b0800000000000000
+      internalID: -5345869514800532608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f869a71397a078020800000000000000
+      internalID: 2343853646707070607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643df679eb0fe2d40800000000000000
+      internalID: 5561647291224281926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2985a0098055c3090800000000000000
+      internalID: -8053468538380593006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a85bfd852075de80800000000000000
+      internalID: -8154488243686254427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf15b74046f27140800000000000000
+      internalID: 4716102515751722972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40dc8967eeea4da0800000000000000
+      internalID: -5959688479195738035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12a08aad02550f0800000000000000
+      internalID: -1128960008092245508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce9986dada8bb070800000000000000
+      internalID: 8123239025399668420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad4d16f031f8c560800000000000000
+      internalID: 7334377185762692522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb827e47d7cc13eb0800000000000000
+      internalID: -4741784093440137026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a90b78fdc483b370800000000000000
+      internalID: 8337153355364895137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e59cb895f77d80800000000000000
+      internalID: -8252857755785371466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24daaf519f17c5ff0800000000000000
+      internalID: -46036581551002302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221fabd067adda60800000000000000
+      internalID: 7700494972317798949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe81feb3ecd3c480800000000000000
+      internalID: -8880011169525297476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be0edaac3067430800000000000000
+      internalID: 3780213106259585853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb6ddd3b4f0a790800000000000000
+      internalID: -7520742324350567600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7cee0ce3ee2a480800000000000000
+      internalID: -8889280761183680513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b8a72eaf61a210800000000000000
+      internalID: 1342476957713478137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe830f3fdf23bf0800000000000000
+      internalID: -345934997204963484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa80b94faae4a120800000000000000
+      internalID: 2424320538008652454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charlieTheCapybaraAnimationSheet_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddbf34e1aeaad20800000000000000
+      internalID: 3290699893458066830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a5ecfc636dbdc475dbd921456bd56a45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
