@@ -10,4 +10,4 @@
 
 1. 4th Nov | 搭建初始UI - CABYBARA
 
-   ![alt text](https://github.com/shanshan033/MagicGameDemo/blob/master/Debug/Screen%20Shot%202023-11-04%20at%2017.32.40.png)
+   ![alt text](https://github.com/shanshan033/MagicGameDemo/blob/master/Debug/intro.gif)
